@@ -19,6 +19,10 @@ Floret is a basic map visualization tool based on [Leaflet](http://leafletjs.com
 Job is a manager interface to Batch systems on high-performance computing systems. Currently bind to [ROGER](https://wiki.ncsa.illinois.edu/display/ROGER/ROGER%3A+The+CyberGIS+Supercomputer) and requires authorized account to use.
 
 ### Example
+- Fully interactive mode:
+![](imgs/SingleJob_submit.png)
+
+- Automatic mode:
 ![](imgs/onion-job.png)
 
 
