@@ -12,14 +12,14 @@ Floret is a basic map visualization tool based on [Leaflet](http://leafletjs.com
 
 ### Example
 
-![](onion-vis.png)
+![](imgs/onion-vis.png)
 
 ## **Job**
 
 Job is a manager interface to Batch systems on high-performance computing systems. Currently bind to [ROGER](https://wiki.ncsa.illinois.edu/display/ROGER/ROGER%3A+The+CyberGIS+Supercomputer) and requires authorized account to use.
 
 ### Example
-![](onion-job.png)
+![](imgs/onion-job.png)
 
 
 A comprehensive example notebook for [cyberGIS-based HAND computation](https://github.com/cybergis/nfie-floodmap) is available at [http://cybergis-jupyter.tk/HAND.html](http://cybergis-jupyter.tk/HAND.html)
