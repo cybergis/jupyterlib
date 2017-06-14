@@ -1,0 +1,10 @@
+#!/bin/bash
+#PBS -N $jobname
+#PBS -l nodes=$n_nodes:$is_gpu:ppn=$ppn,walltime=$walltime
+#PBS -e $jobDir/$jobname.stderr
+#PBS -o $jobDir/$jobname.stdout
+
+cd $rogerPath
+
+chmod +x $exe
+./$exe
