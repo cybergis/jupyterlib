@@ -26,4 +26,4 @@ Job is a manager interface to Batch systems on high-performance computing system
 ![](imgs/onion-job.png)
 
 
-A comprehensive example notebook for [cyberGIS-based HAND computation](https://github.com/cybergis/nfie-floodmap) is available at [http://cybergis-jupyter.tk/HAND.html](http://cybergis-jupyter.tk/HAND.html)
+A comprehensive example notebook for [cyberGIS-based HAND computation](https://github.com/cybergis/nfie-floodmap) is available at [http://cybergis.illinois.edu/HAND/](http://cybergis.illinois.edu/HAND/)
