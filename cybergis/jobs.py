@@ -12,7 +12,13 @@ from os.path import expanduser
 from pkg_resources import resource_string
 from IPython.core.magic import (register_line_magic, register_cell_magic,register_line_cell_magic)
 import hashlib
-from itertools import izip,cycle
+from itertools import cycle
+
+try:
+    from itertools import izip
+except ImportError:
+    izip = zip
+    
 from IPython.display import IFrame
 
 USERNAME = os.environ['USER']
